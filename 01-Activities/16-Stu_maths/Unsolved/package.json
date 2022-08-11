@@ -1,0 +1,14 @@
+{
+  "name": "han_solo",
+  "version": "1.0.0",
+  "description": "han solo goes to catch pokemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ayaya"
+  ],
+  "author": "mike gonzo",
+  "license": "ISC"
+}

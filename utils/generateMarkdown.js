@@ -46,7 +46,7 @@ function generateMarkdown(data) {
 
   ## howTo Use
   \`\`\`
-  ${data.usage}
+  ${data.howTo}
   \`\`\`
 
   ## Contributions

@@ -1,4 +1,4 @@
-# HW9 - README generator
+# README generator
   
   ## Description
   The project is simple, we want to use the command-line to generate a README.md file, allowing us the project creators to devote more time to working on the project. Creating a polished GitHub portfolio is an important part of a developers public identity. And, a clean README file is the first step. Allowing you to connect with and showcase your work to other developers, which can lead to interesting collaborations.
